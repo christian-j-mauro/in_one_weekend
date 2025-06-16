@@ -1,1 +1,1 @@
-This is a ray-tracer project based on [Arman Uguray's](https://github.com/armansito) [book about GPU accelerated ray-tracing](https://raytracing.github.io/gpu-tracing/book/RayTracingGPUEdition.html)
+This is a ray-tracer project based on [Arman Uguray's](https://github.com/armansito) [book about GPU accelerated ray-tracing](https://raytracing.github.io/gpu-tracing/book/RayTracingGPUEdition.html).
